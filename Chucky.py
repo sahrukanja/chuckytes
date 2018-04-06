@@ -76,8 +76,8 @@ selfMessage ="""
 ╠➩〘Getvid @〙
 ╠➩〘Friendlist〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║       Protect
+║    〽️ line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -98,8 +98,8 @@ botMessage ="""
 ╠➩〘@bye (Usir Kapten)〙
 ╠➩〘Bye all (Usir Semua)〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║             protect
+║    line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -140,8 +140,8 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     protect
+║     line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -174,8 +174,8 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║           protect
+║   line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 tjia="u5f56ed6711143fd7311ab63c31c78940"
@@ -191,8 +191,8 @@ setMessage ="""
 ╠➩〘Contact on/off〙
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║          protect
+║   line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -218,8 +218,8 @@ creatorMessage ="""
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║            protect
+║    line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -259,8 +259,8 @@ adminMessage ="""
 ╠➩〘Leave on/off〙
 ╠➩〘All join / (TC1/2/3/4 Join)〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║             protect
+║    line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -283,8 +283,8 @@ helpMessage ="""
 ╠➩〘Speed test〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║            protect
+║    line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -299,8 +299,8 @@ protectMessage ="""
 ╠➩〘Ghost on/off〙
 ╠➩〘Invitepro on/off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║             protect
+║     line.me/ti/p/~sepriche
 ╚═════════════════════════
 """
 
@@ -313,8 +313,8 @@ Cmid = kc.getProfile().mid
 Dmid = kr.getProfile().mid
 Emid = km.getProfile().mid
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-Creator=["u5f56ed6711143fd7311ab63c31c78940"]
-admin=["u5f56ed6711143fd7311ab63c31c78940","u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
+Creator=["u17c85f6d88abc5585e85b7c82a57970d"]
+admin=["u17c85f6d88abc5585e85b7c82a57970d","u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
 
 contact = cl.getProfile()
 backup1 = cl.getProfile()
@@ -355,8 +355,8 @@ responsename5 = kr.getProfile().displayName
 
 wait = {
     "LeaveRoom":True,
-    "AutoJoin":False,
-    "AutoJoinCancel":True,
+    "AutoJoin":True,
+    "AutoJoinCancel":False,
     "memberscancel":30,
     "Members":1,
     "AutoCancel":{},
@@ -378,10 +378,10 @@ wait = {
     "comment2":"Wkwkwk ＼（○＾ω＾○）／",
     "comment3":"Lucu Banget!!! ヘ(^_^)ヘ",
     "comment4":"Nice Kak (^_^)",
-    "comment5":"Bot Auto Like ©By : Nadya\nContact Me : 👉 line.me/ti/p/~nad_nad.",    
+    "comment5":"Bot Auto Like ©By : Nadya\nContact Me : 👉 line.me/ti/p/~sepriche",    
     "commentOn":True,
     "commentBlack":{},
-    "message":"Thx For Add Me (^_^)\nInvite Me To Your Group ヘ(^_^)ヘ",    
+    "message":"Thx For Add Me \nInvite Me To Your Group💀",    
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
@@ -389,7 +389,7 @@ wait = {
     "Qron":False,
     "Contact":False,
     "Sambutan":True,
-    "Ghost":False,
+    "Ghost":True,
     "inviteprotect":False,   
     "alwaysRead":False,    
     "Sider":{},
@@ -1111,7 +1111,7 @@ def bot(op):
             c = Message(to=op.param1, from_=None, text=None, contentType=13)
             c.contentMetadata={'mid':op.param2}
             cl.sendMessage(c)
-            cl.sendText(op.param1,"Hallo " + cl.getContact(op.param2).displayName + "\nWelcome To ☞ " + str(ginfo.name) + " ☜" + "\nBudayakan Cek Note\nDan Semoga Betah Disini ^_^")
+            cl.sendText(op.param1,"Hallo " + cl.getContact(op.param2).displayName + "\nWelcome To ☞ " + str(ginfo.name) + " ☜" + "\n\n")
             cl.sendImageWithURL(op.param1,image)
             print "MEMBER JOIN TO GROUP"
             
@@ -1248,7 +1248,7 @@ def bot(op):
                  if wait["detectMention"] == True:
                      contact = cl.getContact(msg.from_)
                      cName = contact.displayName
-                     balas = ["Sekali lagi nge tag gw sumpahin jomblo seumur hidup!","Dont Tag!! Lagi Sibuk",cName + " Ngapain Ngetag?",cName + " Nggak Usah Tag-Tag! Kalo Penting Langsung Pc Aja","Tag Mulu Lo Anjirr!","Dia Lagi Off", cName + " Kenapa Tag? Kangen?","Dia Lagi Tidur\nJangan Di Tag " + cName, "Jangan Suka Tag Gua " + cName, "Kamu Siapa " + cName + "?", "Ada Perlu Apa " + cName + "?","Woii " + cName + " Jangan Ngetag, Riibut!"]
+                     balas = ["👮"]
                      ret_ = random.choice(balas)
                      name = re.findall(r'@(\w+)', msg.text)
                      mention = ast.literal_eval(msg.contentMetadata['MENTION'])
